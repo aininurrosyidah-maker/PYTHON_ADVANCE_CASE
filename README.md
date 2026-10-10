@@ -155,3 +155,4 @@ Melalui tiga studi kasus ini, saya mempelajari cara mengolah nilai mahasiswa, me
 Selain itu, tugas ini membantu saya memahami penggunaan List Comprehension, Lambda Function, Generator, RegEx, "@property", dan Decorator. Saya juga belajar menyusun file program, membuat dokumentasi README, dan menyimpan hasil eksekusi dalam folder yang teratur.
 
 Dengan adanya tugas ini, saya menjadi lebih memahami cara menerapkan konsep Python lanjutan dalam menyelesaikan permasalahan sederhana.
+# PYTHON_ADVANCE_CASE
